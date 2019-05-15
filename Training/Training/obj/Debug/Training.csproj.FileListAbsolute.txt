@@ -1,0 +1,13 @@
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\bin\Debug\Training.exe.config
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\bin\Debug\Training.exe
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\bin\Debug\Training.pdb
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\obj\Debug\Training.exe
+c:\users\ashish.baldota\documents\visual studio 2015\Projects\Training\Training\obj\Debug\Training.pdb
+D:\Projects\Training\Training\bin\Debug\Training.exe.config
+D:\Projects\Training\Training\bin\Debug\Training.exe
+D:\Projects\Training\Training\bin\Debug\Training.pdb
+D:\Projects\Training\Training\obj\Debug\Training.csprojAssemblyReference.cache
+D:\Projects\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+D:\Projects\Training\Training\obj\Debug\Training.exe
+D:\Projects\Training\Training\obj\Debug\Training.pdb
