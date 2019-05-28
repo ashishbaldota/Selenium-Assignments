@@ -30,6 +30,7 @@ namespace Tests
             {
                 IWebDriver driver = new ChromeDriver(@"C:\Users\ashish.baldota\source\repos\NUnitTestProject1\NUnitTestProject1\driver");
                 driver.Navigate().GoToUrl("http://shop.demoqa.com/");
+                driver.Close();
                 
                 //List<IWebElement> allLinks=driver.FindElements(By.PartialLinkText("MyA"));
                
